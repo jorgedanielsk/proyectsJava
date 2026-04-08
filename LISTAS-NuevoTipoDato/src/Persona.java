@@ -1,4 +1,3 @@
-
 public class Persona {
     public String nombre;
     public int edad;
@@ -7,7 +6,6 @@ public class Persona {
         this.nombre = nombre;
         this.edad = edad;
     }
-
 
     @Override
     public String toString() {

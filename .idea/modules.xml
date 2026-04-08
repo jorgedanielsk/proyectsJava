@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/LISTAS-DB/LISTAS-DB.iml" filepath="$PROJECT_DIR$/LISTAS-DB/LISTAS-DB.iml" />
       <module fileurl="file://$PROJECT_DIR$/LISTAS-NuevoTipoDato/LISTAS-NuevoTipoDato.iml" filepath="$PROJECT_DIR$/LISTAS-NuevoTipoDato/LISTAS-NuevoTipoDato.iml" />
       <module fileurl="file://$PROJECT_DIR$/LibreriasListas.iml" filepath="$PROJECT_DIR$/LibreriasListas.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/LISTAS-ARRAY.iml" filepath="$PROJECT_DIR$/LISTAS-ARRAY.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LISTAS-DB/LISTAS-DB.iml" filepath="$PROJECT_DIR$/LISTAS-DB/LISTAS-DB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LISTAS-LIBRERIAS/LISTAS-LIBRERIAS.iml" filepath="$PROJECT_DIR$/LISTAS-LIBRERIAS/LISTAS-LIBRERIAS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LISTAS-NuevoTipoDato/LISTAS-NuevoTipoDato.iml" filepath="$PROJECT_DIR$/LISTAS-NuevoTipoDato/LISTAS-NuevoTipoDato.iml" />
+>>>>>>> f32ae80e4f195cd0536ed29fe982c8cc729326cd
     </modules>
   </component>
 </project>
